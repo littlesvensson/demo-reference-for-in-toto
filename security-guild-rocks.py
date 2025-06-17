@@ -1,7 +1,7 @@
 VERSION = "mnau-mnau-v0"
 CYAN = "\033[96m"
 
-print(CYAN + """I dream of a world where I am part of the security guild.
+print(CYAN + """I dream of a world where I am part of the Security Guild.
 
                       /^--^\\     /^--^\\     /^--^\\
                       \\____/     \\____/     \\____/
